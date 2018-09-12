@@ -1,5 +1,5 @@
 MEM_SIZE=100;
-
+# hi sexy
 reg={'a':0, 'b':0, 'c':0, 'd':0, 'e':0,'f':0,'sp':0,'acc':0, 'pc':0, 'ivec':0, 'int':0, 'timer':0, 'halt':False};  # type: Dict[Union[str, Any], Union[int, Any]]
 
 memory=[0]*MEM_SIZE;
